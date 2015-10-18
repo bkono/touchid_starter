@@ -1,0 +1,12 @@
+{
+  "name": "touchid_starter",
+  "app_id": "80a8031f",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
